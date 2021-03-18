@@ -1,0 +1,6 @@
+Warning[205] D:\MPLAB PROJECT\PROG4\PROG5_PORT.X\NEW.ASM 3 : Found directive in column 1. (ORG)
+Warning[203] D:\MPLAB PROJECT\PROG4\PROG5_PORT.X\NEW.ASM 4 : Found opcode in column 1. (BCF)
+Warning[203] D:\MPLAB PROJECT\PROG4\PROG5_PORT.X\NEW.ASM 5 : Found opcode in column 1. (BCF)
+Warning[203] D:\MPLAB PROJECT\PROG4\PROG5_PORT.X\NEW.ASM 6 : Found opcode in column 1. (BSF)
+Warning[203] D:\MPLAB PROJECT\PROG4\PROG5_PORT.X\NEW.ASM 7 : Found opcode in column 1. (BSF)
+Warning[205] D:\MPLAB PROJECT\PROG4\PROG5_PORT.X\NEW.ASM 9 : Found directive in column 1. (END)

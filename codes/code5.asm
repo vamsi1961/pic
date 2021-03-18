@@ -1,0 +1,11 @@
+#include<p18f452.inc>
+CONFIG  WDT = OFF; product
+ORG 0
+MOVLW .3
+MULLW .2
+MOVFF PRODL,50H
+NOP
+MOVFF PRODH,51H
+END
+
+
